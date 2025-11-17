@@ -13,8 +13,8 @@ Buat folder baru bernama lab7_php_dasar di direktori:
 `
 C:\xampp\htdocs\
 `
-Buka folder tersebut di VS Code atau text editor pilihanmu.
 
+Buka folder tersebut di VS Code atau text editor pilihanmu.
 Langkah-langkah Praktikum
 ### 1. Membuat File PHP Dasar
 File:` php_dasar.php`
