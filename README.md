@@ -33,3 +33,5 @@ File:` php_dasar.php`
 </body>
 </html>
 ```
+Hasil: Tampilkan di browser melalui URL: `php_dasar.php`
+<img width="1358" height="764" alt="Cuplikan layar 2025-11-17 122631" src="https://github.com/user-attachments/assets/4a329624-6c77-4685-a0f5-a000e0955ee8" />
