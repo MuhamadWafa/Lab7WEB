@@ -48,3 +48,11 @@ echo "Nama: $nama";
 Hasil: Tampilkan di browser melalui URL: `http://localhost/lab7_php_dasar/php_dasar.php`
 <img width="1906" height="1127" alt="Cuplikan layar 2025-11-17 124347" src="https://github.com/user-attachments/assets/2e71a753-9c50-48ab-bfd5-adc10883535a" />
 
+### 3. Predefine Variable $_GET
+File:` latihan2.php`
+```python
+<?php
+echo 'Selamat Datang ' . $_GET['nama'];
+?>
+```
+Akses dengan URL: http://localhost/Pemograman Web/latihan2.php?nama=MufidaZulfi
