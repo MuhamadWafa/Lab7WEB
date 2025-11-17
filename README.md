@@ -107,4 +107,13 @@ else echo "Hari lainnya";
 ### hasil tampilanya
 <img width="460" height="145" alt="image" src="https://github.com/user-attachments/assets/da6f9970-b738-4043-a0e9-93fbadd8d2f5" />
 
-
+### ForLoop
+```python
+<?php
+for ($i=1; $i<=10; $i++) {
+    echo "Perulangan ke-$i <br>";
+}
+?>
+```
+### hasilnya
+<img width="952" height="244" alt="image" src="https://github.com/user-attachments/assets/e069b91b-d570-4431-a62a-b910b9e9301f" />
