@@ -58,3 +58,26 @@ echo 'Selamat Datang ' . $_GET['nama'];
 Akses dengan URL:`http://localhost/Pemograman Web/latihan2.php?nama=MufidaZulfi`
 <img width="1919" height="1062" alt="Cuplikan layar 2025-11-17 125953" src="https://github.com/user-attachments/assets/8dbcb0b6-0aa8-42de-8494-2c363d72201e" />
 
+### 4. form input
+
+```python
+<!DOCTYPE html>
+<html>
+<head><title>Form Input</title></head>
+<body>
+<h2>Form Input</h2>
+<form method="post">
+    <label>Nama: </label>
+    <input type="text" name="nama">
+    <input type="submit" value="Kirim">
+</form>
+
+<?php
+echo 'Selamat Datang ' . $_POST['nama'];
+?>
+</body>
+</html>
+```
+### hasilnya
+<img width="1911" height="1045" alt="Cuplikan layar 2025-11-17 132108" src="https://github.com/user-attachments/assets/2a57c77c-30ba-4206-9092-c7ca20dd4144" />
+
