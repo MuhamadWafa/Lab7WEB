@@ -18,3 +18,18 @@ Buka folder tersebut di VS Code atau text editor pilihanmu.
 Langkah-langkah Praktikum
 ### 1. Membuat File PHP Dasar
 File:` php_dasar.php`
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PHP Dasar</title>
+</head>
+<body>
+    <h1>Belajar PHP Dasar</h1>
+    <?php
+        echo "Hello World";
+    ?>
+</body>
+</html>
+```
