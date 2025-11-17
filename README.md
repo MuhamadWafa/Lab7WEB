@@ -18,7 +18,7 @@ Buka folder tersebut di VS Code atau text editor pilihanmu.
 Langkah-langkah Praktikum
 ### 1. Membuat File PHP Dasar
 File:` php_dasar.php`
-```
+```python
 <!DOCTYPE html>
 <html lang="en">
 <head>
