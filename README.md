@@ -55,4 +55,6 @@ File:` latihan2.php`
 echo 'Selamat Datang ' . $_GET['nama'];
 ?>
 ```
-Akses dengan URL: http://localhost/Pemograman Web/latihan2.php?nama=MufidaZulfi
+Akses dengan URL:`http://localhost/Pemograman Web/latihan2.php?nama=MufidaZulfi`
+<img width="1919" height="1062" alt="Cuplikan layar 2025-11-17 125953" src="https://github.com/user-attachments/assets/8dbcb0b6-0aa8-42de-8494-2c363d72201e" />
+
