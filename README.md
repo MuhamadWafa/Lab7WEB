@@ -92,3 +92,19 @@ echo "Gaji Sebelum Pajak = Rp. $gaji <br>";
 echo "Gaji Bersih = Rp. $thp";
 ?>
 ```
+<img width="491" height="373" alt="image" src="https://github.com/user-attachments/assets/b53d4488-d92f-4dd3-8483-aae337667350" />
+
+### Struktur Kondisi 
+### IF ELSE
+```python
+<?php
+$hari = date("l");
+if ($hari == "Sunday") echo "Minggu";
+elseif ($hari == "Monday") echo "Senin";
+else echo "Hari lainnya";
+?>
+```
+### hasil tampilanya
+<img width="460" height="145" alt="image" src="https://github.com/user-attachments/assets/da6f9970-b738-4043-a0e9-93fbadd8d2f5" />
+
+
