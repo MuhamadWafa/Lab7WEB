@@ -117,3 +117,6 @@ for ($i=1; $i<=10; $i++) {
 ```
 ### hasilnya
 <img width="952" height="244" alt="image" src="https://github.com/user-attachments/assets/e069b91b-d570-4431-a62a-b910b9e9301f" />
+
+# Tugas
+<img width="587" height="291" alt="image" src="https://github.com/user-attachments/assets/7b04ee4e-d4a7-4c8a-8929-3157280ee18a" />
