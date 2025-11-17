@@ -80,4 +80,13 @@ echo 'Selamat Datang ' . $_POST['nama'];
 ```
 ### hasilnya
 <img width="1911" height="1045" alt="Cuplikan layar 2025-11-17 132108" src="https://github.com/user-attachments/assets/2a57c77c-30ba-4206-9092-c7ca20dd4144" />
-
+### 5. operator
+```py
+<?php
+$gaji = 1000000;
+$pajak = 0.1;
+$thp = $gaji - ($gaji * $pajak);
+echo "Gaji Sebelum Pajak = Rp. $gaji <br>";
+echo "Gaji Bersih = Rp. $thp";
+?>
+```
