@@ -39,8 +39,8 @@ Hasil: Tampilkan di browser melalui URL: `php_dasar.php`
 File: `http://localhost/lab7_php_dasar/php_dasar.php`
 ```python
 <?php
-$nim = "312410332";
-$nama = "Zaenal Maulana Rizki";
+$nim = "312410334";
+$nama = "Muhamad Wafa Mufida Zulfi";
 echo "NIM: $nim <br>";
 echo "Nama: $nama";
 ?>
