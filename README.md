@@ -1,4 +1,4 @@
-# Lab7WEB
+# Praktikum 7
 # Muhamad Wafa Mufida Zulfi
 # 3123410334
 # Pemograman Web 1
